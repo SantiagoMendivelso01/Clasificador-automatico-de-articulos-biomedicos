@@ -2,7 +2,7 @@
 
 Este proyecto desarrolla un **clasificador automático de artículos biomédicos** 🩺 a partir de su título y resumen (abstract). La solución asigna los textos a uno de los siguientes dominios médicos:
 
-- 🫀 Cardiovascular
+- ❤️ Cardiovascular
 - 🧠 Neurological
 - 🧬 Oncological
 - 🩸 Hepatorenal
@@ -36,23 +36,20 @@ _El diagrama explica el diseño de la solución, desde la ingesta de datos hasta
 
 ### Estructura del Proyecto
 
-.
+(.
 ├── notebooks/
-│   └── 📄 exploracion\_y\_entrenamiento.ipynb  \# Notebook con EDA y entrenamiento del modelo.
-├── src/
-│   ├── 📁 data/
-│   │   └── 📄 **init**.py
-│   ├── 📁 models/
-│   │   └── 📄 **init**.py
-│   ├── 📁 preprocessing/
-│   │   └── 📄 **init**.py
-│   ├── 📄 main.py  \# Script principal para la ejecución.
-│   └── 📄 utils.py  \# Funciones auxiliares.
-├── tests/
-│   └── 📄 test\_model.py  \# Archivos de prueba.
+│   └── 📄 Challenge_de_Clasificación_Biomédica_IA.ipynb  \# Notebook con EDA y entrenamiento del modelo.
+├── Flujo de Trabajo/
+│   ├── 📄 Flujo de Trabajo.jpg
+├── model/
+│   └── 📄 Clasification_model.pkl  \# Modelo de clasificación.
+├── test/
+│   └── 📄 Data1.csv \# Data para pruebas.
+│   └── 📄 Data2.csv \# Data para pruebas.
+│   └── 📄 Data3.csv \# Data para pruebas.
+│   └── 📄 Data4.csv \# Data para pruebas.
 ├── 📄 README.md
-├── 📄 requirements.txt  \# Lista de dependencias.
-└── 📄 LICENSE
+├── 📄 requirements.txt  \# Lista de dependencias.)
 
 
 ### 📦 Dependencias e Instalación
