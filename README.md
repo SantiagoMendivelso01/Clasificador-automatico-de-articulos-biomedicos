@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Clasificador Automático de Artículos Biomédicos
 
 Este proyecto desarrolla un **clasificador automático de artículos biomédicos** 🩺 a partir de su título y resumen (abstract). La solución asigna los textos a uno de los siguientes dominios médicos:
@@ -36,7 +35,6 @@ La organización del proyecto sigue una **estructura modular** para mejorar la c
 _El diagrama explica el diseño de la solución, desde la ingesta de datos hasta la predicción, mostrando cómo las diferentes partes del proyecto se conectan entre sí._
 
 ### Estructura del Proyecto
-```
 
 .
 ├── notebooks/
@@ -56,7 +54,6 @@ _El diagrama explica el diseño de la solución, desde la ingesta de datos hasta
 ├── 📄 requirements.txt  \# Lista de dependencias.
 └── 📄 LICENSE
 
-````
 
 ### 📦 Dependencias e Instalación
 Para ejecutar el código localmente (si decides migrar del notebook a archivos `.py`), necesitas Python 3.8+ y las bibliotecas listadas en `requirements.txt`.
