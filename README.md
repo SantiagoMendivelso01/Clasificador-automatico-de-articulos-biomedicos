@@ -22,6 +22,7 @@ Accede a la aplicación web desplegada, donde puedes probar el clasificador sin 
 ### 💻 Notebook de Colab
 Explora el proceso de desarrollo completo, desde el análisis exploratorio de datos hasta la evaluación del modelo en el siguiente notebook de Google Colab.
 [Ver notebook en Google Colab](https://colab.research.google.com/drive/1gSH9f-nLw-whV7MiXg5xBT74eqq1TD4B?usp=sharing)
+**Se recomienda siempre abrir y visualizar este notebook en Jupyter Notebook o Google Colab**.
 
 ---
 
