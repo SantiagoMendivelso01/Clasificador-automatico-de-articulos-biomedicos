@@ -21,7 +21,7 @@ Accede a la aplicación web desplegada, donde puedes probar el clasificador sin 
 
 ### 💻 Notebook de Colab
 Explora el proceso de desarrollo completo, desde el análisis exploratorio de datos hasta la evaluación del modelo en el siguiente notebook de Google Colab.
-[Ver notebook en Google Colab](https://colab.research.google.com/drive/tu-notebook-id)
+[Ver notebook en Google Colab](https://colab.research.google.com/drive/1gSH9f-nLw-whV7MiXg5xBT74eqq1TD4B?usp=sharing)
 
 ---
 
@@ -31,7 +31,7 @@ La organización del proyecto sigue una **estructura modular** para mejorar la c
 
 ### Diagrama de la Solución
 
-![Diagrama de Flujo de la Solución](Flujo de Trabajo/Flujo de Trabajo.jpg)
+![Diagrama de Flujo de la Solución](Flujo%de%Trabajo/Flujo%de%Trabajo.jpg)
 _El diagrama explica el diseño de la solución, desde la ingesta de datos hasta la predicción, mostrando cómo las diferentes partes del proyecto se conectan entre sí._
 
 ### Estructura del Proyecto
