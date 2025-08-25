@@ -34,7 +34,7 @@ La organización del proyecto sigue una **estructura modular** para mejorar la c
 
 ![Diagrama de Flujo de la Solución](Flujo_Trabajo/Flujo_Trabajo.jpeg)
 
-El diagrama explica el diseño de la solución, desde la ingesta de datos hasta la predicción, mostrando cómo las diferentes partes del proyecto se conectan entre sí._
+El diagrama explica el diseño de la solución, desde la ingesta de datos hasta la predicción, mostrando cómo las diferentes partes del proyecto se conectan entre sí.
 
 ### Estructura del Proyecto
 
