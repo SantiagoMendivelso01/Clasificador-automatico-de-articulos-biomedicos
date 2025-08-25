@@ -55,7 +55,7 @@ El diagrama explica el diseño de la solución, desde la ingesta de datos hasta 
 **Nota sobre los CSV de prueba**:
 
 - En la carpeta `test/` se encuentran **4 CSV de ejemplo** que pueden usarse para probar el notebook.
-- Si quieres ejecutar el notebook, renombra uno de los archivos de prueba como `Challenger.csv`, ya que el notebook está configurado para cargar ese nombre de archivo por defecto.
+- Si quieres ejecutar el notebook, Recuerda que, inmediatamente después de importar las librerías, debes modificar la ruta (path) según el csv de prueba que quieras usar.
 - En caso de que quieras probar un **CSV personalizado** en la aplicación web:
   - Debe tener las columnas `title;abstract;group` (el `group` es opcional para validación).
   - El archivo **no debe superar las 1000 filas**, debido a que el modelo se carga en la versión gratuita de Hugging Face. Para eliminar esta limitación, sería necesario utilizar la **versión premium** de Hugging Face.
