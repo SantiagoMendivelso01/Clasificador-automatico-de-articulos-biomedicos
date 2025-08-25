@@ -8,5 +8,5 @@ Este proyecto desarrolla un clasificador automático de artículos biomédicos a
 La solución está basada en Machine Learning supervisado, utilizando un pipeline de TF-IDF para vectorizar el texto y un Support Vector Machine (SVM) como modelo de clasificación. El SVM fue elegido por su capacidad para manejar datos de alta dimensionalidad y por permitir la aplicación de regularización y penalización de clases, mejorando el rendimiento en escenarios desbalanceados.
 
 
-[Ir a la aplicación web ❤️](v0-medical-text-classifier.vercel.app)
+[Ir a la aplicación web ❤️](https://v0-medical-text-classifier.vercel.app/)
 
