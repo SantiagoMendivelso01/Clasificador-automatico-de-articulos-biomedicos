@@ -50,9 +50,18 @@ El diagrama explica el diseño de la solución, desde la ingesta de datos hasta 
 │   └── 📄 Data3.csv \# Data para pruebas.
 │   └── 📄 Data4.csv \# Data para pruebas.
 ├── 📄 README.md
-├── 📄 requirements.txt  \# Lista de dependencias.`)
+├── 📄 requirements.txt  \# Lista de dependencias.
 ```
+**Nota sobre los CSV de prueba**:
 
+- En la carpeta `test/` se encuentran **4 CSV de ejemplo** que pueden usarse para probar el notebook.
+- Si quieres ejecutar el notebook, renombra uno de los archivos de prueba como `Challenger.csv`, ya que el notebook está configurado para cargar ese nombre de archivo por defecto.
+- En caso de que quieras probar un **CSV personalizado** en la aplicación web:
+  - Debe tener las columnas `title;abstract;group` (el `group` es opcional para validación).
+  - El archivo **no debe superar las 1000 filas**, debido a que el modelo se carga en la versión gratuita de Hugging Face. Para eliminar esta limitación, sería necesario utilizar la **versión premium** de Hugging Face.
+- Si pruebas desde el **notebook**, no hay límite en la cantidad de filas.
+
+---
 
 ### 📦 Dependencias e Instalación
 Para ejecutar el código localmente (si decides migrar del notebook a archivos `.py`), necesitas Python 3.8+ y las bibliotecas listadas en `requirements.txt`.
