@@ -36,7 +36,7 @@ _El diagrama explica el diseño de la solución, desde la ingesta de datos hasta
 
 ### Estructura del Proyecto
 
-(.
+```
 ├── notebooks/
 │   └── 📄 Challenge_de_Clasificación_Biomédica_IA.ipynb  \# Notebook con EDA y entrenamiento del modelo.
 ├── Flujo de Trabajo/
@@ -50,6 +50,7 @@ _El diagrama explica el diseño de la solución, desde la ingesta de datos hasta
 │   └── 📄 Data4.csv \# Data para pruebas.
 ├── 📄 README.md
 ├── 📄 requirements.txt  \# Lista de dependencias.`)
+```
 
 
 ### 📦 Dependencias e Instalación
