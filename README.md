@@ -19,6 +19,7 @@ Puedes interactuar con el modelo y ver los resultados de dos maneras:
 Accede a la aplicación web desplegada, donde puedes probar el clasificador sin necesidad de instalaciones.
 **Nota: Recuerda leer el manual de uso que se encuentra al final del documento antes de comenzar tu experiencia en la plataforma.**
 [Ir a la aplicación web ❤️](https://v0-medical-text-classifier.vercel.app/)
+
 ☁️ Ten en cuenta que el modelo puede tardar varios minutos en procesar, dependiendo del tamaño del conjunto de datos de prueba 😊.
 
 ### 💻 Notebook de Colab
