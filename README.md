@@ -17,7 +17,9 @@ Puedes interactuar con el modelo y ver los resultados de dos maneras:
 
 ### 🌐 Aplicación Web
 Accede a la aplicación web desplegada, donde puedes probar el clasificador sin necesidad de instalaciones.
+**Nota: Recuerda leer el manual de uso que se encuentra al final del documento antes de comenzar tu experiencia en la plataforma.**
 [Ir a la aplicación web ❤️](https://v0-medical-text-classifier.vercel.app/)
+☁️ Ten en cuenta que el modelo puede tardar varios minutos en procesar, dependiendo del tamaño del conjunto de datos de prueba 😊.
 
 ### 💻 Notebook de Colab
 Explora el proceso de desarrollo completo, desde el análisis exploratorio de datos hasta la evaluación del modelo en el siguiente notebook de Google Colab.
@@ -103,6 +105,7 @@ El sistema clasifica los textos en las siguientes categorías:
 
 ### 4. Dashboard de Resultados
 - Visualiza estadísticas clave como la **precisión** y la **distribución de categorías**.
+- Visualiza métricas como F1-score ponderado, accuracy, distribución de clases y la matriz de confusión. Para acceder a esta información, haz clic en el botón **Métricas Extendidas**.
 - **Filtra los resultados** por categoría o por el origen de la predicción (CSV vs. Manual).
 - **Exporta** los resultados en formato CSV para análisis posterior.
 
